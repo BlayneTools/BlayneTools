@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on BlayneTools
 - 🌱 I’m currently learning HTMl
 - 💬 Ask me about anything!
-- 📫 How to reach me: (559) 422-0874 (Alt Phone Number)
+- 📫 How to reach me: (559) 422-0874 (Alt Phone Number) (Not My Real Area Code)
 - ⚡ Fun fact: I'm self taught!
