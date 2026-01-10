@@ -1,0 +1,13 @@
+.taskbar {
+  display: flex;    
+  gap: 10px;            
+  align-items: center;
+  background: #2b2b2b;
+  padding: 10px;
+}
+
+.taskbar a:not(:last-child)::after {
+  content: "|";    
+  color: white;
+  margin-left: 5px;
+}
